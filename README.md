@@ -16,7 +16,7 @@ This project is an attendance-recording system using machine learning. It captur
 
 - Machine Learning: Face Recognition from Images done using OpenCV, face_recognition, and dlib.
 - Backend: The technology stack would be MongoDB—we will preserve user details for faculty/students, attendance records, etc.
-- Front-end: (Provide her a server-side front-end stack, i.e., if any front-end framework is used, like Flask, Django, etc.). 
+- Front-end: Flask is used in the frontend. 
 - Python libraries:
 
   - opencv-python
