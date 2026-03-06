@@ -12,17 +12,13 @@ This project is an attendance-recording system using machine learning. It captur
   
 </div>
 
-
-### Features
-- Image Capture: The system can take images through webcam, taking 10 auto images of the person via the webcam.
-- Face Recognition: The ML model recognizes the faces of students, and staff to take attendance.
-- MongoDB: The system will have a MongoDB as a back end, it will also keep all of the user details, attendance, class schedule and so forth.
-- Faculty Dashboard: The dashboard should show attendance data for the faculty and include almost everything:
-
- - Time slot
- - Section
- - Number of students
- - Attendance history, etc.
+### ✨ Key Features
+- 📸 **Automated image capture** — captures 10 images per user via webcam  
+- 🧠 **Face recognition system** using OpenCV, dlib, and face_recognition  
+- 🗂️ **MongoDB-backed storage** for users, attendance, and schedules  
+- 👨‍🏫 **Faculty dashboard** with time slots, sections, and student lists  
+- 📊 **Attendance analytics** including history and per-class statistics  
+- ⚡ **End-to-end automation** eliminating manual attendance processes
 
 ### Technologies
 
