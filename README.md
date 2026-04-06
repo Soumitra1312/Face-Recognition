@@ -1,4 +1,7 @@
-## Face Recognition Based Attendance System
+# Face Recognition Based Attendance System
+
+## Overview
+
 This project is an attendance-recording system using machine learning. It captures the face of the person in an automated way to track the attendance for classrooms. The application primarily takes 10 photos from the webcam of the person. The ML model will recognize the human face from the image he/she was captured in and it can insert in MongoDB a record for the face and create a faculty personalized dashboard consisting of attendance statistics (time slot, sections, student list, attendance record along with many other data).
 
 <div align="center">
